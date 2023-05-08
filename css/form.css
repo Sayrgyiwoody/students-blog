@@ -47,4 +47,9 @@
     .form-container-rg {
         padding: 20px 10px;
     }
+    
+    .login-container {
+        border-radius: 0px;
+    }
+    
   }
