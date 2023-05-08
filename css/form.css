@@ -39,4 +39,9 @@
     .register-form-container {
         padding-right: 0px;
     }
+
+    .form-container {
+        height: auto;
+        padding: 30px 10px;
+    }
   }
