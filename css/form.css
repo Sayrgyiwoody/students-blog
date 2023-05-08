@@ -41,7 +41,10 @@
     }
 
     .form-container {
-        height: auto;
         padding: 30px 10px;
+    }
+
+    .form-container-rg {
+        padding: 20px 10px;
     }
   }
