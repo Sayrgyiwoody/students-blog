@@ -30,3 +30,13 @@
 .register-form-container {
     padding-right: 75px;
 }
+
+@media only screen and (max-width: 600px) {
+    .login-form-container {
+        padding-left: 0px;
+    }
+
+    .register-form-container {
+        padding-right: 0px;
+    }
+  }
